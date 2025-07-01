@@ -12,4 +12,6 @@ BinLookUp is Simple Android application that allows users to fetch and display B
 - 🗂️ **Search history** saved and displayed from local storage
 - 🧩 **Dependency Injection** with Dagger Hilt
 - 📱 Clean MVVM architecture and modular codebase
-  <img src="BIN LOOKUP PAGE.png" width="1000" alt="Dictionary Screenshot" />
+
+  
+  <img src="BIN LOOKUP PAGE.png" width="600" alt="Dictionary Screenshot" />
